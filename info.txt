@@ -1,0 +1,9 @@
+Proyecto Nodejs, Express, MySQL REST API, con despliegue en Railway
+
+En el proyecto se realiza un CRUD a una base de datos de MySQL, el proyecto tiene una carpeta de routes y una carpeta de controladores
+
+- Se instala express, mysql
+- Usando nodemon
+- Usando import de ECMAScript
+- Usando el modulo route
+- Variables de entorno con dotenv
